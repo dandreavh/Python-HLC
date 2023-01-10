@@ -5,3 +5,5 @@
 print("Nombre", end=" ** ")
 print("Es", end=" ** ")
 print("Ignatius")
+
+print("Nombre", "Es", "Ignatius", sep=" ** ")

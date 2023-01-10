@@ -4,4 +4,4 @@
 # Resultado: Tengo 1000 euros para comprar 3 tarjetas gráficas por 450,00 dólares.
 
 resultado = "Tengo {totalMoney} euros para comprar {quantity} tarjetas gráficas por {price:.2f} dólares."
-print(resultado.format(totalMoney = 1000, quantity = 3, price = 450))
+print(resultado.format(totalMoney = 1000, quantity = 3, price = 450.748))

@@ -3,3 +3,4 @@
 # Resultado: 458,54
 num = 458.541315
 print(f"{num:.2f}")
+print(round(num,2))
