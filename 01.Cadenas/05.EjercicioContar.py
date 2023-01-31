@@ -9,4 +9,4 @@ for i in cadena:
         caracteres+=1
     else:
         simbolos+=1
-print("Recuentos totales: \n Caracteres = "+str(caracteres)+"\n Dígitos = "+str(digitos)+"\n Símboloes = "+str(simbolos))
+print("Recuentos totales: \n Caracteres = "+str(caracteres)+"\n Dígitos = "+str(digitos)+"\n Símbolos = "+str(simbolos))

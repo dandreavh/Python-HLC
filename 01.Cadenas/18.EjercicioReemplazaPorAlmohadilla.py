@@ -7,3 +7,13 @@ for chr in str1:
         new_str = str1.replace(chr, "#")
     print(new_str)
 print(new_str)
+
+
+# SOLUCIÓN
+# Using string.punctuation to get the list of all punctuations
+# use string function replace() to replace each punctuation with #
+from string import punctuation
+caracter = '#'
+for char in punctuation:
+    cadena = cadena.replace(char, caracter)
+print("La cadena después de la transformación : ", cadena)
